@@ -1,2 +1,5 @@
 numpy == 2.5.0
 opencv-python == 4.13.0.92
+mediapipe == 0.10.35
+ipython == 9.14.1
+ipykernel == 7.3.0
