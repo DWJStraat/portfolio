@@ -1,1 +1,0 @@
-This project serves as a personal hackathon, in order to demonstrate the skills I have learned in the closed source projects in the past year.
